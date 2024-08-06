@@ -1,18 +1,12 @@
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
+### Hola 👋, Curso de Git y GitHub
+#### Curso para Youtube
+![Curso para Youtube](https://yt3.googleusercontent.com/zl16JmnnlNoTdAaPjyA1cG6RQiWKzuLH7N5LuN5hEp9pMtwFdvctJckcrVq1engUOlsiZKRgH-w=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
-<!--
-**GitHub2052/GitHub2052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estos cursos pertenecen a Tectroya
 
-Here are some ideas to get you started:
+Habilidades: Git, Python, Swift, SwiftUI, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en un nuevo curso de SwiftUI 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GitHub2052)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.tectroya.cl)  
