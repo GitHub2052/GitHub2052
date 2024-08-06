@@ -4,9 +4,10 @@
 
 Estos cursos pertenecen a Tectroya
 
-Habilidades: Git, Python, Swift, SwiftUI, SQLite
+Habilidades: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 - 🔭 Estoy trabajando en un nuevo curso de SwiftUI 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GitHub2052)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.tectroya.cl)  
+
